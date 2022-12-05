@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  anibalchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-05T19:16:05.980083279-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7159d8b3f561b5dffb85d18da016dc56e90ac4aca41fca850346c4ce4afff89a
+    name: anibalchart
+    type: application
+    urls:
+    - charts/anibalchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-05T19:16:05.979687686-03:00"
